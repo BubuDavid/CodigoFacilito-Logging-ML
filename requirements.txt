@@ -4,3 +4,4 @@ scikit-learn
 pydantic
 pandas
 numpy
+python-logstash
